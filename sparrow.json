@@ -1,5 +1,5 @@
 {
-    "version": "0.0.1",
+    "version": "0.0.2",
     "name": "outth-date-time",
     "engine": "generic", 
     "description" : "outthentic tests for DateTime",
