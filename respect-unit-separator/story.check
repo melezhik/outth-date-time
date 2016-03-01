@@ -1,0 +1,6 @@
+within: hms, sep ! : \S+
+02!12!50
+
+within: hms, wo sep : \S+
+02:12:50
+

@@ -1,0 +1,7 @@
+{
+    "version": "0.0.1",
+    "name": "outth-date-time",
+    "engine": "generic", 
+    "description" : "outthentic tests for DateTime"",
+    "url": "https://github.com/melezhik/outth-date-time.git"
+}
